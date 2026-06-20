@@ -1,0 +1,87 @@
+================================================================================
+CV UPDATE NOTES — ADITYA ANANTH
+Files: Aditya_Ananth_CV_Final.html | Aditya_Ananth_CV_Final.pdf
+================================================================================
+
+WHAT CHANGED
+============
+
+1. SUMMARY SHORTENED
+   Previous: ~4 sentences including a "seeking / targeting" closing line.
+   Updated: Condensed to 4 lines. Covers P&L ownership, Boggi Milano & Salsa Jeans,
+   5-market scope (trading calendar, CRM, pricing, promotions, content, forecasting),
+   and AI/automation track record. "Seeking/targeting" language removed entirely.
+
+2. SENIOR DIGITAL MERCHANDISER ROLES COMBINED
+   Previous: Two separate entries — "Boggi Milano & Salsa Jeans (Nov 2025–Present)"
+   and "Trendyol (Oct 2024–Nov 2025)" — both titled Senior Digital Merchandiser.
+   Updated: Single combined entry "Oct 2024 – Present" with no brand in the job title.
+   Lead paragraph introduces current Boggi/Salsa ownership and notes prior Trendyol
+   tenure within the same period. 6 bullets on Boggi/Salsa, 1 on Trendyol (packed with
+   its key metrics: +40%, +10% EBITDA, 7× ROAS, Iraq launch).
+
+3. TRENDYOL REDUCED
+   Trendyol no longer has its own dedicated entry. Metrics are preserved in the
+   combined Trendyol summary bullet within the merged role. Trendyol does not
+   appear as a main heading anywhere.
+
+4. AI & AUTOMATION MOVED INSIDE SENIOR DIGITAL MERCHANDISER
+   No longer a separate main CV section. In the HTML: compact 2×2 card grid attached
+   to the Senior DM role via a left-bordered sub-block. In the PDF: a condensed 2×2
+   grid block within the same role. Both versions position AI as part of commercial
+   delivery, not a standalone technical section.
+
+5. OPEN TO LINE REMOVED
+   The "Open To" sub-section that appeared in the Education area (Languages column)
+   has been removed from both HTML and PDF. No "Open to:" line appears anywhere.
+
+6. PDF COMPRESSED TO 2 PAGES
+   Previous PDF: 4+ pages (HTML-rendered with full decorative elements).
+   Updated PDF: Clean 2-page A4 layout generated from a purpose-built PDF template.
+   Page 1: Name, contact, summary, stats band, full Senior DM role + AI block.
+   Page 2: Digital Merchandiser, Associate DM, Intern, Skills, Certs, Education, Languages.
+   No pull quote, no decorative header graphics, no hero pills — all stripped for print.
+   All content reads as real text (ATS-compatible).
+
+7. HTML FONT & READABILITY IMPROVED
+   Previous: Jost (weight 300 — very thin) for body text.
+   Updated: Inter (weight 400) for all body text. Cleaner, higher contrast, modern.
+   Bodoni Moda retained for name (h1), section headings (h2), role titles (h3),
+   pull quote, and decorative elements — premium feel preserved.
+   Base font-size increased from implied ~15px to explicit 15px with 1.65 line height.
+   All bullet and body text bumped from weight 300 to 400 for improved legibility.
+   Ink color adjusted slightly darker (#1A1612 vs #1C1813) for better print contrast.
+
+8. OLDER ROLES COMPRESSED
+   Digital Merchandiser: 4 bullets (down from 5).
+   Associate Digital Merchandiser: 3 bullets (down from 4), lead paragraph shortened.
+   Intern: 2 bullets (down from 3).
+
+9. CONTENT POSITIONING
+   Boggi Milano and Salsa Jeans are the clear focus of the combined Senior DM entry.
+   All key Boggi achievements preserved: +54% YoY, AOV $350, CR 0.7%→1.4%,
+   Lebanon & Egypt launch Feb 2026, +25% VIP campaign uplift, 65% mono-brand
+   site revenue, 15-brand reporting, 600+ man-hours saved, Deona development story.
+
+QUALITY CHECKS
+==============
+  No Word document generated
+  No plain text ATS file generated
+  No LinkedIn About section generated
+  No "Open To" line anywhere in HTML or PDF
+  No separate AI & Automation main section
+  Senior Digital Merchandiser appears as one combined entry (Oct 2024–Present)
+  Boggi Milano & Salsa Jeans are clearly the primary focus
+  Trendyol reduced to one summary bullet in the combined role
+  PDF is exactly 2 pages (A4)
+  HTML is clean, readable, and premium with Inter body font
+  No spelling errors
+  Dates are consistent (Oct 2024–Present for combined SDM role)
+  No repeated bullets across the two files
+  No invented metrics — all figures match the previous verified CV version
+  HTML opens cleanly in browser
+  PDF exports cleanly from the dedicated print template
+
+================================================================================
+END OF NOTES
+================================================================================
